@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Questionme</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_questionlogin">Questionlogin</string>
+    <string name="title_activity_questionstart">Questionstart</string>
+    <string name="title_activity_questiongamemode">Questiongamemode</string>
+    <string name="title_activity_questionsurvival">Questionsurvival</string>
+    <string name="title_activity_questionuser">Questionuser</string>
+    <string name="title_activity_questionmaingame">Questionmaingame</string>
+    <string name="title_activity_questionsettings">Questionsettings</string>
+    <string name="title_activity_questionfinish">Questionfinish</string>
+    <string name="title_activity_questionclass">Questionclass</string>
+    <string name="title_activity_questionadd">Questionadd</string>
+    <string name="title_activity_questionsignup">Questionsignup</string>
+    <string name="app_id">1484723758421013</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_remember">Remember</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+    <string name="title_activity_questionmainstart">Questionmainstart</string>
+    <string name="title_activity_questionstarter">Questionstarter</string>
+    <string name="title_activity_middlepage">QuestionMe?</string>
+    <string name="title_activity_questionleader">Questionleader</string>
+    <string name="title_activity_questionsubmit">Questionsubmit</string>
+    <string name="title_activity_multiplg">Multiplg</string>
+    <string name="title_activity_current_game_l">CurrentGameL</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
